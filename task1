@@ -12,4 +12,5 @@
 m = input('Маса пирога: ')
 tisto = 0.4 * int(m)
 boroshno = tisto * 0.7
-print(boroshno * 1000)
+res = boroshno * 1000
+print(res) 
