@@ -9,5 +9,5 @@
 """
 
 number = input('Число: ')
-first, second, third, firth, fifth = number
-print(f'{int(first) + int(third) + int(fifth)}{int(second) + int(firth)}')
+first, second, third, fourth, fifth = number
+print(f'{int(first) + int(third) + int(fifth)}{int(second) + int(fourth)}')
